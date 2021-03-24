@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\css\css.css" />
+    <Content Include="Content\css\cs1s.css" />
     <Content Include="Content\images\bfd_logo_ch.gif" />
     <Content Include="Content\images\cart_26.gif" />
     <Content Include="Content\images\cpinfo_icons.gif" />

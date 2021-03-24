@@ -4,3 +4,9 @@ E:\恢复1\Root\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.csprojAssemblyReference
 E:\恢复1\Root\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.csproj.CoreCompileInputs.cache
 E:\恢复1\Root\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.dll
 E:\恢复1\Root\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.pdb
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\bin\Debug\MODAL.dll
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\bin\Debug\MODAL.pdb
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.csprojAssemblyReference.cache
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.csproj.CoreCompileInputs.cache
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.dll
+E:\TCW\Tsukkomi\吐槽网\Tsukkomi\MODAL\obj\Debug\MODAL.pdb

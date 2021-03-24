@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <title>吐槽网</title>
-    <link rel="stylesheet" href="/Content/css/css.css">
+    <link rel="stylesheet" href="/Content/css/cs1s.css">
     <script src="/Content/js/jquery-3.3.1.min.js"></script>
 
 </head>

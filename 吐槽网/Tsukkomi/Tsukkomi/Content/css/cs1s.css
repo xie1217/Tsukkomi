@@ -184,11 +184,12 @@ h1 {
 }
 
 .zhuce li {
-    margin-bottom: 28px;
+    margin-bottom: 24px;
+    line-height:30px;
 }
 
 .zhuce input {
-    width: 172px;
+    width: 260px;
     height: 30px;
     outline: none;
     padding-left: 6px;
@@ -203,12 +204,14 @@ h1 {
 
 /* 验证框 */
 #Verification{
-    width: 260px;
+    width: 172px;
     height: 30px;
     outline: none;
     padding-left: 6px;
-    margin-left: 50px;
+    margin-right: 210px;
     border: 1px solid #ccc;
+    position:relative;
+    float:right;
 }
 
 .zhuce ul li input[type="checkbox"] {
