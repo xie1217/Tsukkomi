@@ -13,7 +13,7 @@
     <form action="#" runat="server" method="post">
         <div class="header">
             <div class="top">
-                <img src="./img/web_logo.png" alt="">
+                <img src="/Content/img/web_logo.png" alt="">
             </div>
             <div class="nav">
                 <ul class="inner">
@@ -41,7 +41,7 @@
                     </div>
                     <div class="right">
                         <div class="zhuce">
-                            <h2>登录吐槽网 <span>还没有账号？<a href="#">注册</a></span></h2>
+                            <h2>登录吐槽网 <span>还没有账号？<a href="Registered.aspx">注册</a></span></h2>
                             <ul>
                                 <li>用户名/邮箱：
                           <%--      <input type="text" placeholder="用户名邮箱" id="inputkey">--%>

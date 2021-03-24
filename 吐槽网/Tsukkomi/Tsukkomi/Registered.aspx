@@ -8,14 +8,13 @@
     <title>吐槽网</title>
     <link rel="stylesheet" href="/Content/css/cs1s.css">
     <script src="/Content/js/jquery-3.3.1.min.js"></script>
-
 </head>
 
 <body>
     <form action="#" runat="server" method="post">
         <div class="header">
             <div class="top">
-                <img src="./img/web_logo.png" alt="">
+                <img src="/Content/img/web_logo.png" alt="">
             </div>
             <div class="nav">
                 <ul class="inner">
@@ -43,16 +42,19 @@
                     </div>
                     <div class="right">
                         <div class="zhuce">
-                            <h2 id="he2">注册吐槽网 <span>已有账号？<a href="#">登录</a></span></h2>
+                            <h2 id="he2">注册吐槽网 <span>已有账号？<a href="Login.aspx">登录</a></span></h2>
                             <ul>
                                 <li>邮箱：
-                                <input type="text" placeholder="用户名邮箱">
+<%--                                <input type="text" placeholder="用户名邮箱">--%>
+                                    <asp:TextBox ID="username" placeholder="用户名/邮箱" runat="server"></asp:TextBox>
                                 </li>
                                 <li>昵称：
-                                <input type="text" placeholder="请填写昵称">
+<%--                                <input type="text" placeholder="请填写昵称">--%>
+                                    <asp:TextBox ID="nickname" placeholder="请填写昵称" runat="server"></asp:TextBox>
                                 </li>
                                 <li>密码：
-                                <input type="password" placeholder="密码">
+<%--                                <input type="password" placeholder="密码">--%>
+                                    <asp:TextBox ID="password" runat="server" placeholder="密码" TextMode="Password"></asp:TextBox>
                                 </li>
                                 <li>
                                     <asp:Label ID="numberCode" runat="server" Text="请获取验证码"></asp:Label>
@@ -64,7 +66,7 @@
                                 </li>
                                 <li>
                                     <%--<button>注册</button>--%>
-                                    <asp:Button ID="btn" runat="server" Text="登录" CssClass="btn" />
+                                    <asp:Button ID="btn" runat="server" Text="登录" CssClass="btn" OnClick="btn_Click" />
                                 </li>
                             </ul>
                         </div>
